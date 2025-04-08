@@ -9,6 +9,7 @@
 // @match        https://www.torn.com/travel*
 // @icon         https://www.freeiconspng.com/thumbs/up-arrow-png/black-up-arrow-png-6.png
 // @grant        none
+// @license      mit
 // @run-at       document-start
 // ==/UserScript==
 
