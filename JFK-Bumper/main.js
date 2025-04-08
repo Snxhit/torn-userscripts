@@ -1,17 +1,18 @@
 // ==UserScript==
 // @name         JFK Bumper
 // @namespace    http://github.com/Snxhit
-// @version      0.0.1
+// @version      0.1.0
 // @description  Get those threads up!
 // @author       Snxhit
 // @match        https://www.torn.com/index.php
 // @match        https://www.torn.com/factions.php*
 // @match        https://www.torn.com/travel*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=torn.com
+// @icon         https://www.freeiconspng.com/thumbs/up-arrow-png/black-up-arrow-png-6.png
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
 
+// VERSION 0.1.0 IS THE FIRST RELEASE VERSION
 // THIS IS A SCRIPT WRITTEN IN TAMPERMONKEY
 
 (function () {
